@@ -4,9 +4,9 @@
   "settings": {
     "width": 3000,
     "height": 3000,
-    "scrollTop": -756.8086,
-    "scrollLeft": -962.7244,
-    "zoomLevel": 0.43,
+    "scrollTop": -403.2899,
+    "scrollLeft": -1142.5512,
+    "zoomLevel": 0.73,
     "show": 511,
     "database": 4,
     "databaseName": "eco_electronicos",
@@ -157,7 +157,8 @@
         "columnIds": [
           "jDXWNODJXuyoKrrm4p5ai",
           "WuRe8U53q6xEraXBMyAOZ",
-          "Oimoonsk3l2w5LByOuM-S"
+          "Oimoonsk3l2w5LByOuM-S",
+          "6mx30cCYFSf844QPWE_3J"
         ],
         "seqColumnIds": [
           "jDXWNODJXuyoKrrm4p5ai",
@@ -165,7 +166,8 @@
           "-BNx5ZEUCwc-eno5940hj",
           "JQqdA9Y5AN8NVtmJVqQjf",
           "WuRe8U53q6xEraXBMyAOZ",
-          "Oimoonsk3l2w5LByOuM-S"
+          "Oimoonsk3l2w5LByOuM-S",
+          "6mx30cCYFSf844QPWE_3J"
         ],
         "ui": {
           "x": 553.1306,
@@ -176,7 +178,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1756860124207,
+          "updateAt": 1756862575677,
           "createAt": 1756859072804
         }
       },
@@ -188,15 +190,15 @@
           "iI6-BBxwtycXSO0xF8r9Q",
           "dkdtUmo3w7f-zOV96SOnJ",
           "w2JW2eGF68qquuOkTtWQC",
-          "7yEN-YHjhQqG3eLHkKSSb",
-          "p0o3wTmj7yx19Hryy1spv"
+          "p0o3wTmj7yx19Hryy1spv",
+          "7yEN-YHjhQqG3eLHkKSSb"
         ],
         "seqColumnIds": [
           "iI6-BBxwtycXSO0xF8r9Q",
           "dkdtUmo3w7f-zOV96SOnJ",
           "w2JW2eGF68qquuOkTtWQC",
-          "7yEN-YHjhQqG3eLHkKSSb",
-          "p0o3wTmj7yx19Hryy1spv"
+          "p0o3wTmj7yx19Hryy1spv",
+          "7yEN-YHjhQqG3eLHkKSSb"
         ],
         "ui": {
           "x": 1707.758,
@@ -207,7 +209,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1756860219900,
+          "updateAt": 1756862645709,
           "createAt": 1756859159195
         }
       }
@@ -892,6 +894,26 @@
           "updateAt": 1756860214977,
           "createAt": 1756860171762
         }
+      },
+      "6mx30cCYFSf844QPWE_3J": {
+        "id": "6mx30cCYFSf844QPWE_3J",
+        "tableId": "9sCN88TMYewjtCAURmnx2",
+        "name": "precio_total",
+        "comment": "",
+        "dataType": "INT",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 64,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1756862588878,
+          "createAt": 1756862575676
+        }
       }
     },
     "relationshipEntities": {
@@ -915,7 +937,7 @@
             "WuRe8U53q6xEraXBMyAOZ"
           ],
           "x": 553.1306,
-          "y": 578.8059,
+          "y": 590.8059,
           "direction": 1
         },
         "meta": {
@@ -942,8 +964,8 @@
           "columnIds": [
             "Oimoonsk3l2w5LByOuM-S"
           ],
-          "x": 763.1306,
-          "y": 642.8059,
+          "x": 764.1306,
+          "y": 666.8059,
           "direction": 8
         },
         "meta": {
@@ -989,8 +1011,8 @@
           "columnIds": [
             "jDXWNODJXuyoKrrm4p5ai"
           ],
-          "x": 973.1306,
-          "y": 578.8059,
+          "x": 975.1306,
+          "y": 590.8059,
           "direction": 2
         },
         "end": {
