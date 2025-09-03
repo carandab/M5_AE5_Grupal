@@ -4,13 +4,13 @@
   "settings": {
     "width": 3000,
     "height": 3000,
-    "scrollTop": -403.2899,
-    "scrollLeft": -1142.5512,
+    "scrollTop": -535.2899,
+    "scrollLeft": -512.5512,
     "zoomLevel": 0.73,
     "show": 511,
     "database": 4,
     "databaseName": "eco_electronicos",
-    "canvasType": "ERD",
+    "canvasType": "@dineug/erd-editor/builtin-schema-sql",
     "language": 1,
     "tableNameCase": 4,
     "columnNameCase": 2,
@@ -425,7 +425,7 @@
         "options": 8,
         "ui": {
           "keys": 0,
-          "widthName": 62,
+          "widthName": 63,
           "widthComment": 60,
           "widthDataType": 81,
           "widthDefault": 60
@@ -525,7 +525,7 @@
         "options": 15,
         "ui": {
           "keys": 1,
-          "widthName": 61,
+          "widthName": 62,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
@@ -545,7 +545,7 @@
         "options": 8,
         "ui": {
           "keys": 0,
-          "widthName": 80,
+          "widthName": 81,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
@@ -685,7 +685,7 @@
         "options": 11,
         "ui": {
           "keys": 1,
-          "widthName": 61,
+          "widthName": 62,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
@@ -805,7 +805,7 @@
         "options": 8,
         "ui": {
           "keys": 2,
-          "widthName": 61,
+          "widthName": 62,
           "widthComment": 60,
           "widthDataType": 60,
           "widthDefault": 60
@@ -887,7 +887,7 @@
           "keys": 0,
           "widthName": 60,
           "widthComment": 60,
-          "widthDataType": 74,
+          "widthDataType": 75,
           "widthDefault": 60
         },
         "meta": {
@@ -955,7 +955,7 @@
           "columnIds": [
             "BErctEVRz0a9kV4ksppsX"
           ],
-          "x": 763.697,
+          "x": 764.197,
           "y": 864.776,
           "direction": 4
         },
@@ -992,7 +992,7 @@
           "columnIds": [
             "jIdViU1LByrGo8NUXDD_F"
           ],
-          "x": 1511.2469,
+          "x": 1512.2469,
           "y": 285.528,
           "direction": 2
         },
