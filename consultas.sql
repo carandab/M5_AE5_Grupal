@@ -75,20 +75,28 @@ ALTER TABLE vehiculo
 ALTER TABLE pedido
   ADD CONSTRAINT FK_clientes_TO_pedido
     FOREIGN KEY (id_cliente)
-    REFERENCES clientes (id_cliente);
+    REFERENCES clientes (id_cliente)
+    ON UPDATE CASCADE
+    ON DELETE CASCADE;
 
 ALTER TABLE pedido
   ADD CONSTRAINT FK_articulos_TO_pedido
     FOREIGN KEY (id_articulos)
-    REFERENCES articulos (id_articulos);
+    REFERENCES articulos (id_articulos)
+    ON UPDATE CASCADE
+    ON DELETE CASCADE;
 
 ALTER TABLE solicitudes
   ADD CONSTRAINT FK_vehiculo_TO_solicitudes
     FOREIGN KEY (id_vehiculo)
-    REFERENCES vehiculo (id_vehiculo);
+    REFERENCES vehiculo (id_vehiculo)
+    ON UPDATE CASCADE
+    ON DELETE CASCADE;
 
 ALTER TABLE solicitudes
   ADD CONSTRAINT FK_pedido_TO_solicitudes
     FOREIGN KEY (id_pedido)
-    REFERENCES pedido (id_pedido);
+    REFERENCES pedido (id_pedido)
+    ON UPDATE CASCADE
+    ON DELETE CASCADE;
 
